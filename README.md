@@ -1,1 +1,1 @@
-Cavitation analysis project by SJ
+Cavitation analysis project
